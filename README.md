@@ -15,11 +15,11 @@ My name is Tung Chu. I am An energetic and inquisitive young man, graduated in R
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Object-Counting&theme=merko" />
 </a>
-
-<a href="https://github.com/Tung003/Linear-Regression">
+ 
+<a href="https://github.com/Tung003/CNN_pytorch_cuda">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Linear-Regression&theme=merko" />
-</a>    
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=CNN_pytorch_cuda&theme=dark" />
+</a>
 <a href="https://github.com/Tung003/Logistic-Regression">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Logistic-Regression&theme=dark" />
@@ -38,8 +38,8 @@ My name is Tung Chu. I am An energetic and inquisitive young man, graduated in R
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=LLM-Q-A&theme=merko" />
 </a>    
-<a href="https://github.com/Tung003/CNN_pytorch_cuda">
+<a href="https://github.com/Tung003/Linear-Regression">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=CNN_pytorch_cuda&theme=dark" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Linear-Regression&theme=merko" />
+</a>   
 
