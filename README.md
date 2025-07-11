@@ -13,33 +13,34 @@ My name is Tung Chu. I am An energetic and inquisitive young man, graduated in R
 </a>    
 <a href="https://github.com/Tung003/Object-Counting">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Object-Counting&theme=merko" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Object-Counting&theme=radical" />
+</a> 
+
  
-<a href="https://github.com/Tung003/CNN_pytorch_cuda">
+<a href="https://github.com/Tung003/LLM-Q-A">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=CNN_pytorch_cuda&theme=dark" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=LLM-Q-A&theme=merko" />
+</a>    
 <a href="https://github.com/Tung003/Logistic-Regression">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Logistic-Regression&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Logistic-Regression&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Tung003/Artificial-neural-networks-MATH">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Artificial-neural-networks-MATH&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Artificial-neural-networks-MATH&theme=synthwave" />
 </a>    
 <a href="https://github.com/Tung003/K-Nearest-Neighbors">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=K-Nearest-Neighbors&theme=dark" />
 </a>
 
-<a href="https://github.com/Tung003/LLM-Q-A">
+<a href="https://github.com/Tung003/CNN_pytorch_cuda">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=LLM-Q-A&theme=merko" />
-</a>    
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=CNN_pytorch_cuda&theme=dark" />
+</a>
 <a href="https://github.com/Tung003/Linear-Regression">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Linear-Regression&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Linear-Regression&theme=cobalt" />
 </a>   
 
