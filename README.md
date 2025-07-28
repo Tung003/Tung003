@@ -1,11 +1,13 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Tung Chu. I am An energetic and inquisitive young man, graduated in Robotics and Artificial Intelligence. I am interested in the following topics: Machine Learning, Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
+My name is Tung Chu. I am An energetic and inquisitive young man, graduated in Robotics and Artificial Intelligence. I am interested in the following topics: Machine Learning, Deep Learning for Computer Vision, LLM.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tung-chu-van-5b0629318/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Tung003) 
 
 
-![Tung's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Tung's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tung003&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tung003&layout=compact&theme=tokyonight)
 
 <a href="https://github.com/Tung003/License-Plate-Recognition">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
