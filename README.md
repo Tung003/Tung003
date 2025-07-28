@@ -18,10 +18,9 @@ My name is Tung Chu. I am An energetic and inquisitive young man, graduated in R
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Object-Counting&theme=radical" />
 </a> 
 
- 
-<a href="https://github.com/Tung003/LLM-Q-A">
+<a href="https://github.com/Tung003/Viettel-gpkg-rag">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=LLM-Q-A&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Viettel-gpkg-rag&theme=merko" />
 </a>    
 <a href="https://github.com/Tung003/Logistic-Regression">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
