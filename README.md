@@ -11,7 +11,7 @@ My name is Tung Chu. I am An energetic and inquisitive young man, graduated in R
 
 <a href="https://github.com/Tung003/License-Plate-Recognition">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=License-Plate-Recognition&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=License-Plate-Recognition&theme=dracula" />
 </a>    
 <a href="https://github.com/Tung003/Object-Counting">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -22,9 +22,18 @@ My name is Tung Chu. I am An energetic and inquisitive young man, graduated in R
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Viettel-gpkg-rag&theme=merko" />
 </a>    
+<a href="https://github.com/Tung003/Multi_agent">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Multi_agent&theme=highcontrast" />
+</a>
+
+<a href="https://github.com/Tung003/Finetune-LLM">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Finetune-LLM&theme=gruvbox" />
+</a>
 <a href="https://github.com/Tung003/Logistic-Regression">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Logistic-Regression&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Tung003&repo=Logistic-Regression&theme=cobalt" />
 </a>
 
 <a href="https://github.com/Tung003/Artificial-neural-networks-MATH">
