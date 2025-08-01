@@ -8,11 +8,13 @@ My name is Tung Chu. I am An energetic and inquisitive young man, graduated in R
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tung-chu-van-5b0629318/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Tung003) 
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tung003&show_icons=true&theme=tokyonight" alt="Tung's GitHub stats" width="39.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tung003&layout=compact&theme=tokyonight" alt="Top Langs" width="35.5%" />
+</div>
 
-![Tung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tung003&show_icons=true&theme=tokyonight)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tung003&layout=compact&theme=tokyonight)
+## 🗃️ My repositorys: 
 
 <a href="https://github.com/Tung003/License-Plate-Recognition">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
